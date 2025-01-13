@@ -10,6 +10,6 @@ def contarPalabra(texto):
 
 
 if __name__=='__main__':
-    texto=input("Ingresa un texto y te dire la cantidad de palabras iguales: ")
+    texto=input("Ingresa un texto y te dire la cantidad de palabras iguales (la palabra se cuenta desde cada espacio): ")
     d=contarPalabra(texto)
     print(d)
