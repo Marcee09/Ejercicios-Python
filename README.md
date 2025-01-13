@@ -51,3 +51,14 @@ Escribe un programa que lea una cadena y devuelva un diccionario con la cantidad
 - **Entrada:** `"Hola mundo hola"`
 - **Salida:** `{"Hola": 1, "mundo": 1, "hola": 1}`
 
+### 2. Fibonacci
+Implementa una función que devuelva el n-ésimo término de la serie de Fibonacci (0 , 1 , 1 , 2 , 3 , 5 , 8 , 13 , 21 , 34 , 55 , 89 ...).
+
+**Ejemplo:**
+- **Entrada:** `6`
+- **Salida:** `8`
+
+Hazlo de dos maneras:
+- Usando un bucle.
+- Usando recursividad.
+
