@@ -62,3 +62,10 @@ Hazlo de dos maneras:
 - Usando un bucle.
 - Usando recursividad.
 
+### 3. Ordenar un diccionario por valores
+Escribe una función que ordene un diccionario basado en sus valores (de menor a mayor o de mayor a menor).
+
+**Ejemplo:**
+- Entrada: `{'a': 3, 'b': 1, 'c': 2}`
+- Salida: `{'b': 1, 'c': 2, 'a': 3}`
+
